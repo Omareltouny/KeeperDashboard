@@ -153,7 +153,7 @@ Kovar faced a through-ball attack that developed into a 1v1 situation before the
 ### ✅ Strengths
 - Excellent reaction
 - Strong acceleration
-- Correct HOLD decision
+- Correct HOLD decision (the goalkeeper stays on his feet, holds his ground/depth rather than rushing out or diving)
 
 </div>
 
@@ -171,7 +171,7 @@ Kovar faced a through-ball attack that developed into a 1v1 situation before the
 <div class="visual-box">
 
 ### 🖼️ What the Visuals Show
-- **2v1 situation** — the numerical disadvantage Kovar faced as a second attacker joined the play.
+- **2v1 situation** — the numerical advantage Kovar had as a second defender was very close at the time of the shot.
 - **Goal coverage** — the percentage of the goal frame Kovar's body was shielding at each moment.
 - **Bisector angle** — how closely Kovar stayed on the line bisecting the angle between the ball and the two goalposts, the ideal defensive line.
 
@@ -190,9 +190,8 @@ Kovar faced a through-ball attack that developed into a 1v1 situation before the
 
 ### ⚠️ Weaknesses
 - Lost bisector alignment
-- Goal coverage reduced to 0%
+- Goal coverage reduced to 0% ( fake caused Kovar to leave most of the net empty)
 - Committed fully to the fake
-- Grounded during the real shot
 - Insufficient recovery for a second save
 
 </div>
