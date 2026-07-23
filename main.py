@@ -18,7 +18,7 @@ st.header("📹 Video Analysis")
 col1, col2 = st.columns(2)
 
 video_1_path = "Event_1_web.mp4"
-video_2_path = "Pitch_Flipped.mp4"
+video_2_path = "Pitch_Tactical_Flipped_under25mb.mp4"
 
 with col1:
     st.subheader("Event Analysis")
